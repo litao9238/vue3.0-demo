@@ -15,7 +15,7 @@ export default {
     HelloWorld
   },
   setup() {
-    console.log(123)
+    console.warn('home setup')
   }
 }
 </script>
